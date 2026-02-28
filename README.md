@@ -83,19 +83,19 @@ http://localhost:8501
 ## 📸 Application Screenshots
 
 ### 🔹 View All Customers
-![view All](screenshots/View All.png)
+![View All](screenshots/View%20All.png)
 
 ### 🔹 Add Customer
-![add Customer](screenshots/Add Customers.png)
+![Add Customer](screenshots/Add%20Customers.png)
 
 ### 🔹 Search Customer
-![search Customer](screenshots/Search Customer.png)
+![Search Customer](screenshots/Search%20Customer.png)
 
 ### 🔹 Update Customer
-![update Customer](screenshots/Update Customer.png)
+![Update Customer](screenshots/Update%20Customer.png)
 
 ### 🔹 Delete Customer
-![delete Customer](screenshots/Delete Customer.png)
+![Delete Customer](screenshots/Delete%20Customer.png)
 
 ---
 
